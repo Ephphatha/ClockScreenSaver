@@ -1,0 +1,17 @@
+
+*.ncb
+*.sdf
+*.suo
+*.user
+*.filters
+/Debug/BuildLog.htm
+/Debug/ClockScreenSaver.Build.CppClean.log
+/Debug/ClockScreenSaver.log
+/Debug/ClockScreenSaver.scr
+/Release/ClockScreenSaver.log
+/UpgradeLog.XML
+/_UpgradeReport_Files/UpgradeReport.css
+/_UpgradeReport_Files/UpgradeReport_Minus.gif
+/_UpgradeReport_Files/UpgradeReport_Plus.gif
+/_UpgradeReport_Files
+/Debug
